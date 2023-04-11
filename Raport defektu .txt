@@ -1,0 +1,15 @@
+CodersGuru Rejestracja jako mentor jest nie możliwa dla uszytkownika
+
+	ID defektu- Bug-001
+Kroki:
+1 Wejdź na strone : https://tester.codersguru.pl/
+2 Wybierz opcje Zostań Mentorem
+
+Data wykrycia : 11/06/2022 godzina 12:31
+Data wykrycia : 11/06/2022
+Rezultat : Żądany plik został usuniety 
+Wynik Oczekiwany : Pekierowanie do formularza rejestracji 
+Priorytet: wysoki 
+
+Link: https://docs.google.com/forms/d/e/1FAIpQLSdkSQerDu-SpOquMbNiCMjHFzGAF735jX2R8OIBcnlT_uN0_A/viewform 
+
